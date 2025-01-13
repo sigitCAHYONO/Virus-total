@@ -1,2 +1,2 @@
 # Virus-total
-Untuk menganalisis suara website
+Untuk menganalisis suatu website
